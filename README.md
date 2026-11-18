@@ -20,7 +20,7 @@ Install R and the `gllvm` package. From the repository directory:
 
 ```r
 install.packages("gllvm")  # only once
-source("02_fit_final_gllvm_models.R")
+source("fit_final_gllvm_models.R")
 ```
 
 The script writes fitted models (`.rds`), summaries (`.txt`), and an R session record into `outputs/`. No access to NINA databases, spatial services, Excel trait workbooks, or private model `.rds` files is required for this step.
