@@ -67,7 +67,7 @@ The release files contain only the variables used by each final model. No coordi
 ## Notes on reproducibility
 
 - The public fitting script **refits** the final models; it does not require pre-saved fitted models.
-- GLLVM optimization can be computationally expensive and can depend on the installed `gllvm` version and numerical libraries. Inspect convergence and the saved summaries and compare them with the original manuscript results.
+- GLLVM optimization can be computationally expensive and can depend on the installed `gllvm` version and numerical libraries.
 - This stripped-down package reproduces the **final statistical models**, not all figures or exploratory/model-selection analyses.
 
 ## Citation and licensing
