@@ -62,7 +62,7 @@ Each CSV has **one row per sampled locality-year × retained species** (long for
 | `habitat_width` | Standardized species habitat-niche width. |
 | `STI` | Standardized species temperature index (butterflies only). |
 
-The release files contain only the variables used by each final model. No coordinates in original geographic units or original taxon trait workbook are required to reproduce the fits. However, locality identifiers, species-level counts, and covariates should still be reviewed for data-sharing restrictions before publication.
+The release files contain only the variables used by each final model. No coordinates in original geographic units or original taxon trait workbook are required to reproduce the fits. 
 
 ## Notes on reproducibility
 
