@@ -9,8 +9,8 @@ The models are **separate for bumblebees and butterflies**, which have different
 | File | Purpose |
 | --- | --- |
 | `fit_final_gllvm_models.R` | Standalone script that imports both model-ready CSVs and fits the final models. |
-| `gllvm_bumblebee_model_input.csv` | **bumblebee model inputs only. |
-| `gllvm_butterfly_model_input.csv` | **butterfly model inputs only. |
+| `gllvm_bumblebee_model_input.csv` | bumblebee model inputs only. |
+| `gllvm_butterfly_model_input.csv` | butterfly model inputs only. |
 | `CITATION.cff` | Repository citation metadata. |
 | `.gitignore` | Excludes generated model results and temporary R files. |
 
