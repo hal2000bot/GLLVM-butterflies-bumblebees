@@ -39,7 +39,7 @@ Both models use a negative binomial family, one latent variable (`num.lv = 1`), 
 
 - Fixed trait interactions: spring, summer and previous late-summer temperature × species temperature index (STI); artificial land × habitat niche width.
 - Species-specific random slopes: the three temperature variables, artificial land, cropland and forest.
-- Original final refit: `fit_bf_full_STI_s3` (seed 987; `n.init = 10`; `jitter.var = 0.05`), subsequently assigned to `fit_bf_final`.
+- Original fitting settings: seed 987; `n.init = 10`; `jitter.var = 0.05`).
 
 ## Input data dictionary
 
